@@ -6,7 +6,7 @@ Welcome to my profile!
 - 🌱 I’m currently learning new techniques in ethical hacking and exploring advanced Python programming concepts.
 - 💼 I’m open to collaborating on cyber security projects, Python development tasks, and anything related to ethical hacking.
 - 📫 You can reach me anytime via email at *mail@saidsecurity.com* or visit my portfolio website *www.saidsecurity.com* for more information.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/They
 - ⚡ Fun fact: I enjoy participating in CTF challenges on platforms like Hack The Box and TryHackMe.
 
 ### About Me
