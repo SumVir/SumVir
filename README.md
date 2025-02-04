@@ -10,7 +10,7 @@ Welcome to my profile!
 - ⚡ Fun fact: I enjoy participating in CTF challenges on platforms like Hack The Box and TryHackMe.
 
 ### About Me
-I'm a 19-year-old cybersecurity enthusiast born in Azerbaijan. I'm passionate about leveraging Python programming skills to enhance cyber security defenses and explore ethical hacking methodologies. My journey in cyber security has led me to continuously seek new challenges and learning opportunities.
+I'm a 21-year-old cybersecurity enthusiast born in Azerbaijan. I'm passionate about leveraging Python programming skills to enhance cyber security defenses and explore ethical hacking methodologies. My journey in cyber security has led me to continuously seek new challenges and learning opportunities.
 
 ### Portfolio
 I've recently revamped my portfolio website, https://saidsecurity.com to showcase my projects, skills, and experiences in the cyber security realm. Feel free to check it out to learn more about my work!
